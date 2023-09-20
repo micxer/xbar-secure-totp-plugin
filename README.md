@@ -31,6 +31,7 @@ First decide where you want to put the OTP secrets. The default is `$HOME/.otp`.
 {
     "KEYFILE": "/Users/xbar-user/.otp"
 }
+```
 
 The secrets file should contain one line per OTP secret. The format is:
 
