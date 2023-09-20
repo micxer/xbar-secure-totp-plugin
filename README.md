@@ -4,8 +4,9 @@ A plugin to ease usage of TOTPs for the [xbar mac desktop utility](https://xbara
 
 ## Prerequisites
 
-You need to have oath-toolkit installed. Use `brew install oath-toolkit` and update the path to `oathtool` in the
-script if necessary.
+You need to have oath-toolkit installed. To do that you can use `brew install oath-toolkit`. If your environment is not
+special the script should pick up the correct path to the `oathtool` binary. If not, you can set the path manually in
+the script.
 
 ## Usage
 
